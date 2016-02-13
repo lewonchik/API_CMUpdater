@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/cm-12.1-20160213-UNOFFICIAL-Q510.zip",
+    "timestamp": "1455326932",
+    "api_level": "22",
+    "md5sum": "1adc47fa48b163afbf41f3b8d9829b6f",
+    "filename": "cm-12.1-20160213-UNOFFICIAL-Q510.zip",
+    "channel": "RELEASE",
+    "changes": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/CHANGELOG",
+    "incremental": "b5087689de"
+    },
+  ],
+ "error": null
+}
