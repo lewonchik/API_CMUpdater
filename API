@@ -3,13 +3,13 @@
  "result": [
 {
     "url": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/cm-12.1-20160216-UNOFFICIAL-q510.zip",
-    "timestamp": "1455564381",
+    "timestamp": "1455590418",
     "api_level": "22",
-    "md5sum": "e8db782553921f3ecf1fc229c1ca8f9e",
+    "md5sum": "0828c4d884c5d4a2e2dbef334a673127",
     "filename": "cm-12.1-20160216-UNOFFICIAL-Q510.zip",
     "channel": "RELEASE",
     "changes": "https://raw.githubusercontent.com/lewonchik/API_CMUpdater/master/CHANGELOG-2",
-    "incremental": "a7f33e0255"
+    "incremental": "763753be48"
     },
   ],
  "error": null
