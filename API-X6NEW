@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/cm-12.1-20160220-UNOFFICIAL-q510.zip",
+    "timestamp": "1455590459",
+    "api_level": "22",
+    "md5sum": "a41df077246d8972f36d070979bfdd28",
+    "filename": "cm-12.1-20160220-UNOFFICIAL-q510.zip",
+    "channel": "RELEASE",
+    "changes": "https://raw.githubusercontent.com/lewonchik/API_CMUpdater/master/CHANGELOG-Q1",
+    "incremental": "763753be59"
+    },
+  ],
+ "error": null
+}
