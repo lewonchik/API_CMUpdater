@@ -2,11 +2,11 @@
  "id": null,
  "result": [
 {
-    "url": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/cm-12.1-20160324-UNOFFICIAL-QUEST_510.zip",
+    "url": "http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/cm-12.1-20160325-UNOFFICIAL-QUEST_510.zip",
     "timestamp": "1458851106",
     "api_level": "22",
     "md5sum": "3d8940459809326c8c4bb754d90dfa68",
-    "filename": "cm-12.1-20160324-UNOFFICIAL-QUEST_510.zip",
+    "filename": "cm-12.1-20160325-UNOFFICIAL-QUEST_510.zip",
     "channel": "RELEASE",
     "changes": "https://raw.githubusercontent.com/lewonchik/API_CMUpdater/master/CHANGELOG",
     "incremental": "c82fa8c615"
