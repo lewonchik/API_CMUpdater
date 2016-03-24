@@ -8,7 +8,7 @@
     "md5sum": "412f8378bc77143c7393a52fde4de83f",
     "filename": "cm-12.1-20160220-UNOFFICIAL-X6.zip",
     "channel": "RELEASE",
-    "changes": "https://raw.githubusercontent.com/lewonchik/API_CMUpdater/master/CHANGELOG-X6",
+    "changes": "https://raw.githubusercontent.com/lewonchik/API_CMUpdater/master/CHANGELOG",
     "incremental": "763753be59"
     },
   ],
